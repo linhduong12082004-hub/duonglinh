@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ASP.NET Core MVC\\DemoMVC\\DemoMVC.csproj",
+      "projectUniqueName": "D:\\ASP.NET Core MVC\\NetCoreAPI\\DemoMVC\\DemoMVC.csproj",
       "projectName": "DemoMVC",
-      "projectPath": "D:\\ASP.NET Core MVC\\DemoMVC\\DemoMVC.csproj",
+      "projectPath": "D:\\ASP.NET Core MVC\\NetCoreAPI\\DemoMVC\\DemoMVC.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\ASP.NET Core MVC\\DemoMVC\\obj\\",
+      "outputPath": "D:\\ASP.NET Core MVC\\NetCoreAPI\\DemoMVC\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"

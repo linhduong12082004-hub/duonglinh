@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jNXsglKgmWE=",
+  "dgSpecHash": "EK/Tho+i6x8=",
   "success": true,
-  "projectFilePath": "D:\\ASP.NET Core MVC\\DemoMVC\\DemoMVC.csproj",
+  "projectFilePath": "D:\\ASP.NET Core MVC\\NetCoreAPI\\DemoMVC\\DemoMVC.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
